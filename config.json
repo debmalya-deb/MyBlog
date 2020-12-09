@@ -1,0 +1,30 @@
+{
+
+"params":
+{
+
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/coder",
+    "prod_uri":"mysql://root:@localhost/coder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url":"https://github.com/codingthunder",
+    "blog_name":"Indian Heritage",
+    "blog_title":"Indian City Of Culture ",
+    "blog_sub":"A Blog To Start Coding",
+    "gmail_user":"soumadeb14@gmail.com",
+    "gmail_password":"Debmalya123#",
+    "about_text":"Kolkata The City Of Joy",
+    "no_of_posts":2,
+    "login_image":"login.svg",
+    "admin_user":"deb",
+    "admin_password":"debmdeb",
+    "upload_location":"C:\\Users\\debmdeb\\Desktop\\Python Visual Studio\\CodeWithDeb\\static"
+
+
+
+
+}
+
+
+}
